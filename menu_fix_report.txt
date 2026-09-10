@@ -1,0 +1,21 @@
+CAT 0: Başlanğıclar
+CAT 1: Əsas yeməklər
+CAT 2: Şorbalar
+CAT 3: Desertlər
+CAT 4: İçkilər
+CAT 5: Mövsüm menyusu
+ITEM Cacık | img=True
+ITEM Cola | img=True
+ITEM Desert | img=True
+ITEM Dondurma | img=True
+ITEM Humus | img=True
+ITEM Kabab | img=True
+ITEM Limonad | img=True
+ITEM Mərci şorbası | img=True
+ITEM Paxlava | img=True
+ITEM Pizza | img=True
+ITEM Pizza Margherita | img=True
+ITEM Salat | img=True
+ITEM Sezar salatı | img=True
+ITEM Toyuq qovurma | img=True
+ITEM Çay | img=True
