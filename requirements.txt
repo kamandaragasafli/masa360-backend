@@ -10,3 +10,4 @@ reportlab>=4.0
 openpyxl>=3.1
 gunicorn>=23.0
 requests>=2.31
+whitenoise>=6.0
